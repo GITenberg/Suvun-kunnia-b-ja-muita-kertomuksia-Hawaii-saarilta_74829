@@ -5,6 +5,9 @@ contributor:
     agent_name: Oksanen, Vilho
     gutenberg_agent_id: '41744'
     url: http://www.gutenberg.org/2009/agents/41744
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74829#Suvun-kunnia-b-ja-muita-kertomuksia-Hawaii-saarilta
 gutenberg_issued: '2024-12-02'
 gutenberg_type: Text
 identifiers:
